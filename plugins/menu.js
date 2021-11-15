@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/YT0pW4x/Screenshot-2021-11-10-09-29-10-1-1.png";
+    r_text[0] = "https://i.ibb.co/0Cg9MJN/20210923-185508.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -20,8 +20,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
 
 
-maalutty_v2 created by nijin and husni.
-            *Maalutty*
+
+       *𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ maalutty_v2 created by nijin and husni.
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□𝙈𝘼𝘼𝙇𝙐𝙏𝙏𝙔□■□■□■□
+■□■□■□■□■□𝘼𝙟𝙪𝙨𝙚𝙧□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,7 +120,7 @@ maalutty_v2 created by nijin and husni.
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime Maalutty
+⚠️anime Ajuser
 ■□■□■□■□■𝙈𝘼𝘼𝙇𝙐𝙏𝙏𝙔□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
@@ -134,8 +134,8 @@ maalutty_v2 created by nijin and husni.
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
 ⚠️ex  attp maalutty
 ■□■□■□■□■□■□■□■□■□■□
-❤️Maalutty💙
-▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
+        _𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
+▣▣ ~Created by Aju~▣▣
 
 `}) 
 
