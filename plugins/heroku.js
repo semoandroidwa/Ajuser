@@ -2,7 +2,7 @@
 Heroku plugin for WhatsJulie - W4RR10R
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhatsJulie - Yusuf Usta
+Whatsaju - Yusuf Usta
 */
 
 const Julie = require('../events');
