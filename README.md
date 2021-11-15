@@ -1,12 +1,12 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+Maalutty_v2+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/C7ZVWh7/Screenshot-2021-10-25-21-10-01-2.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://ibb.co/4wyvT9j" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Maalutty_v2" src="https://img.shields.io/badge/Maalutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/Maalutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aju001"><img title="Author" src="https://img.shields.io/badge/Author-aju-/Ajuser?red=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
