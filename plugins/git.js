@@ -10,14 +10,14 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/K5bqKHr/20210928-161812.png";
+    r_text[0] = "https://i.ibb.co/Y2mXdR5/ajuser.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `ＡＪＵＳＥＲ
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `ＡＪＵＳＥＲ ＢＯＴ
 
 *bot making video* : _https://youtu.be/dm_kVZ0m2eY_
 
@@ -29,8 +29,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *sticker commands* :_https://github.com/aju001/uploads/tree/main/stickers_.
 ■□■□■□■□■□■□■□■□■□■□
-      _𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
-▣▣ created by Aju ▣▣
+       _𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
+  ▣▣ created by Aju ▣▣
 
 `}) 
 
