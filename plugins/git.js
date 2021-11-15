@@ -17,29 +17,29 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `Ajuser
 
-*bot making video* : https://youtu.be/jF8wF1KdyOw
+*bot making video* : _https://youtu.be/dm_kVZ0m2eY_
 
 
-*owner number husni* :https://wa.me/917025868709.
+
             
 
-*owner number Nijin* :https://wa.me/919605385305.
 
 
-*owner id instagram* :https://instagram.com/maalutty_v2.
+
+*owner id instagram* :_https://instagram.com/ajuz___001_.
 
 
-*github* : https://github.com/nijin-husni/Maalutty_V2.
+*github* : _https://github.com/aju001/Ajuser_.
 
 
-*audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
+*audio commands* :_https://github.com/aju001/uploads/tree/main/bgm_.
 
-*sticker commands* :https://github.com/nijin-husni/uploads/tree/main/stickers.
+*sticker commands* :_https://github.com/aju001/uploads/tree/main/stickers_.
 ■□■□■□■□■□■□■□■□■□■□
-❤️Maalutty💙
-▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
+_𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
+▣▣ created by Aju ▣▣
 
 `}) 
 
