@@ -17,23 +17,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `Ajuser
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `ＡＪＵＳＥＲ
 
 *bot making video* : _https://youtu.be/dm_kVZ0m2eY_
 
-
-
-*owner id instagram* :_https://instagram.com/__ajuz___001?utm_medium=copy_link_.
-
+*owner id instagram* :https://instagram.com/__ajuz___001?utm_medium=copy_link.
 
 *github* : _https://github.com/aju001/Ajuser_.
-
 
 *audio commands* :_https://github.com/aju001/uploads/tree/main/bgm_.
 
 *sticker commands* :_https://github.com/aju001/uploads/tree/main/stickers_.
 ■□■□■□■□■□■□■□■□■□■□
-_𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
+      _𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
 ▣▣ created by Aju ▣▣
 
 `}) 
