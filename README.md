@@ -1,16 +1,16 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Ajuser_v2+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser_v2+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/K5bqKHr/20210928-161812.png""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-red?&style=for-the-badge"></a>
+<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
