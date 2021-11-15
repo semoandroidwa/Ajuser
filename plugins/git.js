@@ -23,12 +23,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 
 
-            
-
-
-
-
-*owner id instagram* :_https://instagram.com/ajuz___001_.
+*owner id instagram* :_https://instagram.com/__ajuz___001?utm_medium=copy_link_.
 
 
 *github* : _https://github.com/aju001/Ajuser_.
