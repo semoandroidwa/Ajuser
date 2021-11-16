@@ -1,6 +1,6 @@
 /* Copyright ©  @Farhan_dqz.
 you can copy file. but credit must be there!!!
-JulieMwol - Farhan-dqz
+Ajuser - Farhan-dqz
 */
 
 const Julie = require('../events');
