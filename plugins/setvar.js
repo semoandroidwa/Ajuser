@@ -80,7 +80,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         await message.sendMessage("NEW SUDO UPDATED")
     }));
 
-    Julie.addCommand({ pattern: 'caption ?(.*)', fromMe: true, desc: 'changes all captions', usage: '.caption *Made by JulieMwol*' }, (async (message, match) => {
+    Julie.addCommand({ pattern: 'caption ?(.*)', fromMe: true, desc: 'changes all captions', usage: '.caption *Made by Ajuser*' }, (async (message, match) => {
         if (match[1] == '') return await message.sendMessage('NEED cA CAPTION')
         await heroku.patch(baseURI + '/config-vars', {
             body: {
