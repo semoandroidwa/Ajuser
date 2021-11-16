@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 farhan-dqz.
 any can add bgm with names
-julie 
+ajuser 
 */
 const fs = require('fs')
 const Julie = require('../events');
