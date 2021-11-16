@@ -74,7 +74,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         succ_off = 'Antilink cerrado correctamente!'
     }
     if (config.LANG == 'ID') {
-        l_dsc = 'Mengaktifkan alat Antilink.'
+        l_dsc = 'Mengaktifkan alat Antilink..'
         alr_on = 'Antilink sudah terbuka!'
         alr_off = 'Antilink saat ini ditutup!'
         succ_on = 'Antilink Berhasil Dibuka!'
