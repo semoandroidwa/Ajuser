@@ -1565,3 +1565,4 @@ Julie.addCommand({pattern: 'rename ?(.*)', onlyGroup: true, fromMe: true,desc: J
 module.exports = {
     checkImAdmin: checkImAdmin
 };
+
