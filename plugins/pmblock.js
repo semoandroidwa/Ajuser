@@ -6,7 +6,7 @@ const fs = require('fs');
 const Config = require('../config')
 
 // Inbox Block System
-// This Plugins By Hisham Muhammed 
+// This Plugins By Aju 
 const INBO = "Inbox Not Allowed"
  if (Config.INBO == 'true') {
 Hisham.addCommand({on: 'text', fromMe: false, delownsewcmd: false, onlyPm: true }, (async (message, match) => {
