@@ -106,3 +106,4 @@ Julie.addCommand({pattern: 'afk ?(.*)', fromMe: true, dontAddCommandList: true, 
 }));
 
 module.exports = { secondsToHms };
+
