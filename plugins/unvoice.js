@@ -1,6 +1,6 @@
 /* Codded by @phaticusthiccy
 Telegram: t.me/phaticusthiccy
-Instagram: www.instagram.com/kyrie.baran
+Instagram: www.instagram.com/kyre.baran
 */
 
 const Julie = require('../events');
