@@ -25,9 +25,6 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *github* : _https://github.com/aju001/Ajuser_.
 
-*audio commands* :_https://github.com/aju001/uploads/tree/main/bgm_.
-
-*sticker commands* :_https://github.com/aju001/uploads/tree/main/stickers_.
 ■□■□■□■□■□■□■□■□■□■□
        _𝘼𝙟𝙪𝙨𝙚𝙧 𝘽𝙤𝙩_
   ▣▣ created by Aju ▣▣
