@@ -1,5 +1,5 @@
 {
-  "name": "Ajuser",
+  "name": "SemoBot",
   "version": "7.3.6",
   "description": "Ajuser is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
   "main": "./Ajuser/bot.js",
